@@ -1,0 +1,13 @@
+body {
+  background-color: MediumSeaGreen;
+  font-family:Verdana; 
+  color:black;
+  text-align:center; 
+  max-width:980px; 
+  margin:auto;
+  width: auto;
+}
+
+.content {
+  max-width: 980px;
+  margin: auto;
