@@ -13,8 +13,8 @@ body {
   margin: auto;
 
 
-.dependents p.p1
-{
-   font-size: 26px;
-  colour:red;
+#header{
+  font-size: 26px;
+  colour: red;
+  
 }
