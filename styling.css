@@ -11,3 +11,8 @@ body {
 .content {
   max-width: 980px;
   margin: auto;
+
+.para1 {
+  text-align: center;
+  color: red;
+}
