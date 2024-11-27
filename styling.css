@@ -1,23 +1,30 @@
+
 body {
-  background-color: MediumSeaGreen;
-  font-family:Verdana; 
-  color:black;
+  background-color: #6DA34D; 
   text-align:center; 
   max-width:980px; 
   margin:auto;
   width: auto;
 }
 
-.content {
-  max-width: 980px;
-  margin: auto;
 
-
-#header{
-  font-size: 26px;
-  colour: red;
+.dependents p.para1
+{
+    font-size:26px;
+font-family: Verdana;
+font-colour:"#505A5B";
 }
 
-.red {
-  color: #f33;
+.dependents2 p.para2
+{
+    font-size:20px;
+font-family: Verdana;
+}
+
+.dependents2 
+{
+    font-size:20px;
+font-family: Verdana;
+text-align: left;
+display: inline-block;
 }
