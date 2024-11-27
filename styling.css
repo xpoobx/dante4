@@ -12,7 +12,9 @@ body {
   max-width: 980px;
   margin: auto;
 
-#para1 {
-  text-align: center;
-  color: red;
+
+.dependents p.p1
+{
+   font-size: 26px;
+  colour:red;
 }
